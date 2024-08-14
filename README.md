@@ -39,6 +39,9 @@ Estamos construyendo un **sistema backend que permite a los usuarios crear y per
 ### **[guysystem86](https://guysystem86.blogspot.com)**
 En *guysystem86*, comparto mis pensamientos, investigaciones y experiencias en el mundo de la seguridad cibernética y la tecnología. ¡Visítalo para estar al tanto de las últimas novedades y mis reflexiones personales!
 
+## 🔥 Mis Estadísticas:
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillo659&layout=compact&theme=dark&custom_title=Lenguajes+Más+Usados)
 
 ## 🌐 Conectemos
 
@@ -46,10 +49,11 @@ En *guysystem86*, comparto mis pensamientos, investigaciones y experiencias en e
 - **LinkedIn**: [guillermoiss](https://www.linkedin.com/in/guillermoiss/) 🔗
 - **Correo Electrónico**: [guillo.salgado@outlook.com](mailto:guillo.salgado@outlook.com) 📧
 
+<!--
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Guillo659&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
+-->
 ---
 
 🎉 ¡Gracias por detenerte a ver mi perfil! Si te apasiona la seguridad cibernética tanto como a mí, no dudes en contactarme. ¡Siempre estoy listo para una nueva aventura en el mundo del hacking! 🤖
