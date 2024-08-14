@@ -1,0 +1,37 @@
+name: Switch README
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: 'Choose the language version'
+        required: true
+        default: 'en'
+        type: choice
+        options:
+          - en
+          - es
+
+jobs:
+  switch-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v3
+
+    - name: Switch README
+      run: |
+        if [ "${{ github.event.inputs.language }}" == "en" ]; then
+          cp README_en.md README.md
+        elif [ "${{ github.event.inputs.language }}" == "es" ]; then
+          cp README_es.md README.md
+        fi
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Switch README to ${{ github.event.inputs.language }}"
+        git push
