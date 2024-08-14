@@ -48,6 +48,11 @@ On *guysystem86*, I share my thoughts, research, and experiences in the world of
 - **LinkedIn**: [guillermoiss](https://www.linkedin.com/in/guillermoiss/) 🔗
 - **Email**: [guillo.salgado@outlook.com](mailto:guillo.salgado@outlook.com) 📧
 
+## 🌍 Ver en Español
+
+[Lee la versión en español aquí](https://github.com/Guillo659/Guillo659/blob/main/README_es.md)
+
+
 <!--
 ## 📊 GitHub Stats
 
