@@ -23,14 +23,14 @@ I hunt for vulnerabilities in applications and services, always on the lookout f
 Currently, I'm deeply involved in **bug hunting** on platforms around the world, applying advanced techniques to enhance security. Do you have a cybersecurity challenge? I'm ready to take it on!
 
 ### **🔧 Project: [Social Network](https://ecorp.infinityfreeapp.com)**
-At [**ECorp**](https://github.com/Guillo659#-mi-organizaci%C3%B3n), we are developing a **social network focused on academic and educational content**. This project includes a section for sharing posts, ideas, and videos related to academia and education. It's a space to connect and learn together!
+At [**DevsCorp**](https://github.com/Guillo659#-mi-organizaci%C3%B3n), we are developing a **social network focused on academic and educational content**. This project includes a section for sharing posts, ideas, and videos related to academia and education. It's a space to connect and learn together!
 
 ### **🔧 Project: [Backend for GitHub Pages](https://github.com/Sena-11#nuestro-proyecto-principal)**
 We are building a **backend system that allows users to create and customize their frontends on GitHub Pages**. We provide the necessary backend to manage and store blog content, making it easy to create and maintain personalized blogs.
 
 ## 🏢 My Organization
 
-### **[ECorp](https://github.com/ECorp-team)**
+### **[DevsCorp](https://github.com/DevsCorp-Team)**
 **ECorp** is an organization dedicated to software development and cybersecurity. Recently, we detected and reported a significant leak of user identification documents from several websites (mostly governmental) due to security flaws. Our commitment remains to strengthen security and contribute to a safer digital environment.
 
 ## 📚 My Blog
