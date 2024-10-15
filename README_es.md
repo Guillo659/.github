@@ -23,7 +23,7 @@ Cazo vulnerabilidades en aplicaciones y servicios, siempre en busca de la próxi
 Actualmente, estoy inmerso en la **caza de bugs** en plataformas de todo el mundo, aplicando técnicas avanzadas para mejorar la seguridad. ¿Tienes un reto de ciberseguridad? ¡Estoy listo para enfrentarlo!
 
 ### **🔧 Proyecto: [Red Social](https://ecorp.infinityfreeapp.com)**
-En [**ECorp**](https://github.com/Guillo659#-mi-organizaci%C3%B3n) estamos desarrollando una **red social enfocada en artículos academicos y educativos**. Este proyecto incluye un apartado para compartir posts, ideas y videos relacionados con el ámbito académico y educativo. ¡Un espacio para conectar y aprender juntos!
+En [**DevsCorp**](https://github.com/Guillo659#-mi-organizaci%C3%B3n) estamos desarrollando una **red social enfocada en artículos academicos y educativos**. Este proyecto incluye un apartado para compartir posts, ideas y videos relacionados con el ámbito académico y educativo. ¡Un espacio para conectar y aprender juntos!
 
 ### **🔧 Proyecto: [Backend para GitHub Pages](https://github.com/Sena-11#nuestro-proyecto-principal)**
 Estamos construyendo un **sistema backend que permite a los usuarios crear y personalizar sus frontends en GitHub Pages**. Nosotros proporcionamos el backend necesario para gestionar y almacenar el contenido del blog, facilitando la creación y mantenimiento de blogs personalizados con facilidad.
@@ -31,7 +31,7 @@ Estamos construyendo un **sistema backend que permite a los usuarios crear y per
 
 ## 🏢 Mi Organización
 
-### **[ECorp](https://github.com/ECorp-team)**
+### **[DevsCorp](https://github.com/DevsCorp-team)**
 **ECorp** es una organización dedicada al desarrollo de software y a la ciberseguridad. Recientemente, hemos detectado y reportado una filtración significativa de documentos de identificación de usuarios provenientes de varias páginas (la mayoría gubernamentales) debido a fallas en su seguridad. Nuestro compromiso sigue siendo el de fortalecer la seguridad y contribuir a un entorno digital más seguro.
 
 ## 📚 Mi Blog
