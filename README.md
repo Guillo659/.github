@@ -40,7 +40,7 @@ On *guysystem86*, I share my thoughts, research, and experiences in the world of
 
 ## 🔥 My Stats:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillo659&layout=compact&theme=dark&custom_title=Most+Used+Languages)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h1trx&layout=compact&theme=dark&custom_title=Most+Used+Languages)
 
 ## 🌐 Let's Connect
 
