@@ -41,7 +41,7 @@ En *guysystem86*, comparto mis pensamientos, investigaciones y experiencias en e
 
 ## 🔥 Mis Estadísticas:
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillo659&layout=compact&theme=dark&custom_title=Lenguajes+Más+Usados)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=h1trx&layout=compact&theme=dark&custom_title=Lenguajes+Más+Usados)
 
 ## 🌐 Conectemos
 
